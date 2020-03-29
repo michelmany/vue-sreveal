@@ -1,0 +1,62 @@
+{
+  "_from": "vue-sreveal",
+  "_id": "vue-sreveal@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-CLyrNaVoWq7CdiKHLHAW81Vkri4JIa06ANtaqAvLc2YnnSq8HC9SD5tSnjh8oLBs+0XvE5nun5DLcLFeMXa2uQ==",
+  "_location": "/vue-sreveal",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "vue-sreveal",
+    "name": "vue-sreveal",
+    "escapedName": "vue-sreveal",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-sreveal/-/vue-sreveal-1.0.7.tgz",
+  "_shasum": "3f1c8b5fe4d6ad2e319ed4fb1a304cd8fb76c214",
+  "_spec": "vue-sreveal",
+  "_where": "/Users/michelmoraes/Projects/michel/vue-sreveal",
+  "author": {
+    "name": "michelmoraes",
+    "email": "michel@nitdesign.com.br"
+  },
+  "bugs": {
+    "url": "https://github.com/michelmany/vue-sreveal"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "scrollreveal": "^3.3.6"
+  },
+  "deprecated": false,
+  "description": "Vue wrapper for ScrollReveal JS. Easy scroll animations for web and mobile browsers.",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "homepage": "https://github.com/michelmany/vue-sreveal#readme",
+  "keywords": [
+    "vue",
+    "directive",
+    "scroll",
+    "reveal",
+    "scrollreveal"
+  ],
+  "license": "MIT",
+  "main": "dist/vue-sreveal.js",
+  "name": "vue-sreveal",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michelmany/vue-sreveal.git"
+  },
+  "scripts": {
+    "build": "babel index.js --out-file dist/vue-sreveal.js --presets=es2015"
+  },
+  "version": "1.0.7"
+}

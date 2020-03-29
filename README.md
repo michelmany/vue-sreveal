@@ -1,5 +1,5 @@
 # vue-sreveal
-Vue wrapper for [ScrollReveal](https://github.com/michelmany/vue-sreveal). Easy scroll animations for web and mobile browsers.
+Vue wrapper for [ScrollReveal](https://github.com/jlmakes/scrollreveal). Easy scroll animations for web and mobile browsers.
 
 ## Install
 
